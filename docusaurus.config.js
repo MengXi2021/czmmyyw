@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'C站猫猫音游窝',
-  tagline: 'AnTeng是我爹!',
+  tagline: '第一时间获取最新情报',
   url: 'https://czmmyyw.nextsay.cn',
   baseUrl: '/',
   onBrokenLinks: 'throw',
