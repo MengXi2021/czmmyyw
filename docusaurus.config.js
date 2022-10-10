@@ -35,7 +35,7 @@ const config = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:'https://github.com/MengXi2021/czmmyyw/edut/main/',
+          editUrl:'https://github.com/MengXi2021/czmmyyw/edit/main/',
           routeBasePath: "/",
           showLastUpdateTime: true,
           showLastUpdateAuthor: true,
@@ -48,7 +48,7 @@ const config = {
           blogSidebarCount: 'ALL',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:'https://github.com/MengXi2021/czmmyyw/edut/main/',
+          editUrl:'https://github.com/MengXi2021/czmmyyw/edit/main/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -116,7 +116,7 @@ const config = {
             ],
           },
         ],
-        copyright: 'Copyright © 2022 Team Quick. 本站与SEGA Corporation和华立科技有限公司无任何关系和往来! Version 0.0.2-B',
+        copyright: 'Copyright © 2022 Team Quick. 本站与SEGA Corporation和华立科技有限公司无任何关系和往来! Version 0.0.2-C',
       },
       prism: {
         theme: lightCodeTheme,
