@@ -25,6 +25,11 @@ const sidebars = {
     },
     {
       type: 'doc',
+      id: 'download',
+      label: '🎶游戏下载',
+    },
+    {
+      type: 'doc',
       id: 'buy',
       label: '🛒购买游戏币',
     },

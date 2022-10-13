@@ -26,3 +26,41 @@
   --ifm-color-primary-lightest: #ffffff;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+/* Download Button CSS */
+.buttonDownload {
+    height: 46px;
+    padding: 10px 24px;
+    color: #3d6890;
+    font-size: 16px;
+    line-height: 46px;
+    border: 1.5px solid #3d6890;
+    border-radius: 12px;
+}
+
+html[data-theme='dark'] .buttonDownload {
+    color: #5e86e7;
+    border-color: #5e86e7;
+}
+
+.buttonDownload:hover {
+    background: #e4edf5;
+    color: #365c80;
+    text-decoration: none;
+}
+
+html[data-theme='dark'] .buttonDownload:hover {
+    background: #121737;
+    color: #9ab4f0;
+    text-decoration: none;
+}
+
+hr {
+  border-color: rgba(0, 0, 0, 0.133);
+  padding: 0 4px;
+  border-width: 0.5px;
+}
+
+html[data-theme='dark'] hr {
+  border-color: #595959;
+}

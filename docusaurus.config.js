@@ -116,7 +116,7 @@ const config = {
             ],
           },
         ],
-        copyright: 'Copyright © 2022 Team Quick. 本站与SEGA Corporation和华立科技有限公司无任何关系和往来! Version 0.0.2-C',
+        copyright: 'Copyright © 2022 Team Quick. 本站与SEGA Corporation和华立科技有限公司无任何关系和往来! Version 0.0.3',
       },
       prism: {
         theme: lightCodeTheme,
