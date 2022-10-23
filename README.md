@@ -4,6 +4,10 @@ C站猫猫音游窝站点是为 **杭州机厅——C站** 准备的站点
 
 此项目目前为**纯前端项目** ，使用Docusaurus2搭建
 
+## 项目状态
+
+![status](https://repobeats.axiom.co/api/embed/5c7cac31a29a47cdef49a4d4dcedc898d88c8d79.svg "Repobeats analytics image")
+
 ## 版本更新
 
 ### 0.0.3
