@@ -11,8 +11,6 @@ title:  介绍
 
 当然站长是个懒人以及一些负面buff**更新可能不会那么及时**，毕竟人家还要上课的嘛 (
 
-*此站点部署于GithubPages，配合CDN使用，请不要在短时间内多次刷新页面*
-
 ## 开源项目使用
 
 Powered by Docusaurus v2, 

@@ -111,12 +111,12 @@ const config = {
               },
               {
                 label: 'GitHub Repo',
-                href: 'https://github.com/MengXi2021',
+                href: 'https://github.com/MengXi2021/czmmyyw',
               },
             ],
           },
         ],
-        copyright: 'Copyright © 2022 Team Quick. 本站与SEGA Corporation和华立科技有限公司无任何关系和往来! Version 0.0.3-B',
+        copyright: 'Copyright © 2022 Team Quick. 本站与SEGA Corporation和华立科技有限公司无任何关系和往来! Version 0.0.3-C',
       },
       prism: {
         theme: lightCodeTheme,
